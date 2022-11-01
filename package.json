@@ -7,8 +7,8 @@
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
-    "browser-sync": "^2.12.8",
-    "gulp": "^3.9.1",
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
     "gulp-postcss": "^6.1.1",
     "gulp-watch": "^4.3.5",
     "postcss-import": "^8.1.2",
